@@ -1,5 +1,5 @@
 ## Hello, Brian here 👋
-I'm currently building deep learning vision models @ Liberty Robotics!
+I'm currently building deep learning vision models @ Liberty Robotics! I'm also actively collaborating with Eastern Michigan's Embedded AI Systems Lab on several projects, including labeless error detection and latent space visualization!
 <!--
 **congbrian/congbrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
