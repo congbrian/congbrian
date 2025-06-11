@@ -1,6 +1,5 @@
 ## Hello, Brian here 👋
-I'm currently working at Liberty Robotics on fine tuning segmentation models; I'm also working on an AI detector algorithm in my spare time! 
-I'm currently in the final year of my Bachelor's degree in computer science, and looking to begin my Master's degree once I finish!
+I'm currently building deep learning vision models @ Liberty Robotics!
 <!--
 **congbrian/congbrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
