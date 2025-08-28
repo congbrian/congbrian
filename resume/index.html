@@ -1,16 +1,41 @@
----
-layout: default
-title: Resume
-permalink: /resume/
----
-
-<iframe
-  src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://congbrian.github.io/congbrian/assets/resume.pdf"
-  style="width:100%; height:100vh; border:0;"
-  title="Resume (PDF.js)"
-></iframe>
-
-<p style="margin-top:0.5rem;">
-  <a href="/assets/resume.pdf">Open raw PDF</a> ·
-  <a href="/assets/resume.pdf" download>Download</a>
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Resume · Brian Cong</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: system-ui, sans-serif;
+    }
+    iframe {
+      width: 100%;
+      height: 100vh;
+      border: none;
+    }
+    .download {
+      text-align: center;
+      margin: 0.5rem 0 1rem;
+    }
+    .download a {
+      color: #0366d6;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .download a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <iframe
+    src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://YOUR_USERNAME.github.io/YOUR_REPO/assets/resume.pdf"
+    title="Resume PDF"
+  ></iframe>
+  <div class="download">
+    <a href="/assets/resume.pdf" target="_blank">Open raw PDF</a> ·
+    <a href="/assets/resume.pdf" download>Download PDF</a>
+  </div>
+</body>
+</html>
